@@ -16,11 +16,11 @@ class Notes {
 
 		//base cases
 
-		//check the map
+		//check the map - does the value already with a solution
 
 		//recursive call
 
-		//add to map
+		//add to map - add that solution to the map
 
 		//return
 		return 0;
